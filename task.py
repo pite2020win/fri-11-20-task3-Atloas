@@ -189,3 +189,4 @@ if __name__ == "__main__":
   logging.info("m1 iterated:")
   for i in m1:
     logging.info(str(i))
+    
